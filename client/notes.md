@@ -1,0 +1,2 @@
+- form tagleri ile entera basarak form gönderme işlemi yapılabilir amabu durumda sayfa yenileneceği için onSubmit metodunda event.preventDefault() metodu çağırılır ve default davranışın önüne geçilir.
+      
