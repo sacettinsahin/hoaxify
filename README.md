@@ -1,1 +1,1 @@
-# hoaxyfy
+# hoaxify
